@@ -1,0 +1,202 @@
+[
+    {
+        "main_cat_name": "Cute",
+        "data": [
+            {
+                "id": "76",
+                "name": "cute_1_sketch",
+                "link": "cute_1_sketch.png"
+            },
+            {
+                "id": "77",
+                "name": "cute_2_sketch",
+                "link": "cute_2_sketch.png"
+            },
+            {
+                "id": "78",
+                "name": "cute_3_sketch",
+                "link": "cute_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "Animal",
+        "data": [
+            {
+                "id": "20",
+                "name": "animal_1_sketch",
+                "link": "animal_1_sketch.png"
+            },
+            {
+                "id": "21",
+                "name": "animal_2_sketch",
+                "link": "animal_2_sketch.png"
+            },
+            {
+                "id": "22",
+                "name": "animal_3_sketch",
+                "link": "animal_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "Architecture",
+        "data": [
+            {
+                "id": "49",
+                "name": "arch_1_sketch",
+                "link": "arch_1_sketch.png"
+            },
+            {
+                "id": "50",
+                "name": "arch_2_sketch",
+                "link": "arch_2_sketch.png"
+            },
+            {
+                "id": "51",
+                "name": "arch_3_sketch",
+                "link": "arch_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "Cartoon",
+        "data": [
+            {
+                "id": "63",
+                "name": "cartoon_1_sketch",
+                "link": "cartoon_1_sketch.png"
+            },
+            {
+                "id": "64",
+                "name": "cartoon_2_sketch",
+                "link": "cartoon_2_sketch.png"
+            },
+            {
+                "id": "65",
+                "name": "cartoon_3_sketch",
+                "link": "cartoon_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "Anim",
+        "data": [
+            {
+                "id": "1",
+                "name": "anim_1_sketch",
+                "link": "anim_1_sketch.png"
+            },
+            {
+                "id": "2",
+                "name": "anim_2_sketch",
+                "link": "anim_2_sketch.png"
+            },
+            {
+                "id": "3",
+                "name": "anim_3_sketch",
+                "link": "anim_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "Nature",
+        "data": [
+            {
+                "id": "88",
+                "name": "nature_1_sketch",
+                "link": "nature_1_sketch.png"
+            },
+            {
+                "id": "89",
+                "name": "nature_2_sketch",
+                "link": "nature_2_sketch.png"
+            },
+            {
+                "id": "90",
+                "name": "nature_3_sketch",
+                "link": "nature_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "Noel",
+        "data": [
+            {
+                "id": "101",
+                "name": "noel_1_sketch",
+                "link": "noel_1_sketch.png"
+            },
+            {
+                "id": "102",
+                "name": "noel_2_sketch",
+                "link": "noel_2_sketch.png"
+            },
+            {
+                "id": "103",
+                "name": "noel_3_sketch",
+                "link": "noel_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "Object",
+        "data": [
+            {
+                "id": "113",
+                "name": "object_1_sketch",
+                "link": "object_1_sketch.png"
+            },
+            {
+                "id": "114",
+                "name": "object_2_sketch",
+                "link": "object_2_sketch.png"
+            },
+            {
+                "id": "115",
+                "name": "object_3_sketch",
+                "link": "object_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "People",
+        "data": [
+            {
+                "id": "128",
+                "name": "people_1_sketch",
+                "link": "people_1_sketch.png"
+            },
+            {
+                "id": "129",
+                "name": "people_2_sketch",
+                "link": "people_2_sketch.png"
+            },
+            {
+                "id": "130",
+                "name": "people_3_sketch",
+                "link": "people_3_sketch.png"
+            }
+        ]
+    },
+    {
+        "main_cat_name": "Fruits",
+        "data": [
+            {
+                "id": "152",
+                "name": "fruit_1_sketch",
+                "link": "fruit_1_sketch.png"
+            },
+            {
+                "id": "153",
+                "name": "fruit_2_sketch",
+                "link": "fruit_2_sketch.png"
+            },
+            {
+                "id": "154",
+                "name": "fruit_3_sketch",
+                "link": "fruit_3_sketch.png"
+            }
+        ]
+    }
+]

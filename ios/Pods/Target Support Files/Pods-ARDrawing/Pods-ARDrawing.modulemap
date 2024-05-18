@@ -1,0 +1,6 @@
+module Pods_ARDrawing {
+  umbrella header "Pods-ARDrawing-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assests/fonts/Switzer-Medium.otf",
+      "sha1": "a2c60e07f88b8ce7dc90f57ea7671e54610d8954"
+    },
+    {
+      "path": "src/assests/fonts/Switzer-Regular.otf",
+      "sha1": "f0a7eb123220f32bb95d3d2325c8bdcb734aba32"
+    },
+    {
+      "path": "src/assests/fonts/Switzer-Semibold.otf",
+      "sha1": "cc42238161dd051e819262cad9037fb80e01904e"
+    }
+  ]
+}
